@@ -1,0 +1,17 @@
+.generated-input{
+    margin:3px;
+    padding: 8px;
+    text-align: center;
+}
+.generated-input2{
+    margin:3px;
+    padding: 8px;
+    text-align: center;
+    width: 135px;
+}
+.btn{
+    border-radius: 2px !important;
+}
+.btn-danger{
+    margin-left: 2px !important;
+}
